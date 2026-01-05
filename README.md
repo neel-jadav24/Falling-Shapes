@@ -1,2 +1,2 @@
 # Falling-Shapes
-A simple 2D arcade-style game where you dodge randomly falling shapes
+A simple 2D arcade-style game where the user dodges randomly falling shapes
